@@ -22,7 +22,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <start-class>burstcoin.jminer.JMinerApplication</start-class>
     <java.version>1.8</java.version>
-    <jocl-blast.version>0.10.0</jocl-blast.version>
+    <jocl-blast.version>0.11.0</jocl-blast.version>
     <saphir-hash.version>3.0.1</saphir-hash.version>
     <bcprov-jdk15on.version>1.56</bcprov-jdk15on.version>
 
